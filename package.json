@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Be-soraj/day-1-backend.git"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "soraj bomrel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Be-soraj/day-1-backend/issues"
+  },
+  "homepage": "https://github.com/Be-soraj/day-1-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1"
+  }
+}
